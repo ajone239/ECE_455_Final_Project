@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'MyReferences.blg'
+[111] biber-darwin:322> INFO - === Tue Nov 30, 2021, 17:52:20
+[313] Utils.pm:320> ERROR - Cannot find 'MyReferences.bcf'!
+[313] Biber.pm:132> INFO - ERRORS: 1
